@@ -18,7 +18,7 @@
   "homepage": "https://github.com/judemanutd/docker-rolling-update#readme",
   "dependencies": {
     "@tinyhttp/app": "^1.2.12",
-    "nodemon": "^2.0.7"
+    "nodemon": "^2.0.22"
   },
   "devDependencies": {
     "eslint": "^7.21.0",
